@@ -1,1 +1,2 @@
-# assigment3 
+# INF 231 assigment3 
+Kurmangazy Kongratbayev the best
